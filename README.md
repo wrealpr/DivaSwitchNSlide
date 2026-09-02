@@ -5,6 +5,8 @@ Also worth noting that the Switch app is in very poor condition. Most of the par
 
 # DivaSwitchNSlide
 
+#### Turn your Nintendo Switch into a slider for Hatsune Miku: Project DIVA Arcade Future Tone
+
 ""Native"" integration via the `.dva` plugin is not as streamlined as it could be and is not recommended.
 
  Main release is a Python script that polls the Nintendo Switch app with pyusb before sending back touch data. Data is then sent over a virtual COM port provided by [com0com](https://com0com.sourceforge.net/)
