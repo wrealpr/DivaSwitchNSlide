@@ -21,6 +21,8 @@ Also worth noting that the Switch app is in very poor condition. Most of the par
 
 5. Make sure Nintendo Switch is plugged in with .nro open beforehand, then run `switch_slider_bridge.py`
 
+Confirm that `switch_slider_bridge.py` is next to `slider_protocol.py` at all times.
+
 
 #### Thanks
 dogtopus for the serial slider information at https://gist.github.com/dogtopus/b61992cfc383434deac5fab11a458597
